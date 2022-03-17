@@ -33,3 +33,9 @@ db.createUser({
         }] 
 });
 ```
+
+## Equipo
+- Armando Elías Aguirre Sosa 		1112150023
+- Efraín Fernando Bejarano Puentes 	1119150056
+- Rosa Alejandra Legarda Bencomo 	1119150016
+- Emmanuel Campuzano Contreras 	1119150081
